@@ -1,0 +1,5 @@
+<svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+<style>.stitch{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-dasharray:10 12;opacity:.55}.heart{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;opacity:.55}</style>
+<path class="stitch" d="M10 100C120 10 225 170 330 80S520 10 640 90s180 65 250-35"/>
+<path class="heart" d="M448 88c-12-13-34 1-20 19l20 21 20-21c14-18-8-32-20-19z"/>
+</svg>

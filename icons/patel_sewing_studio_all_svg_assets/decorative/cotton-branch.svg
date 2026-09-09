@@ -1,0 +1,10 @@
+<svg viewBox="0 0 240 420" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+<style>.line{fill:none;stroke:currentColor;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.cotton{fill:#FFF8EC;stroke:currentColor;stroke-width:3;opacity:.9}.leaf{fill:currentColor;opacity:.18}</style>
+<path class="line" d="M112 400C130 300 132 200 98 80"/>
+<path class="line" d="M118 282c42-22 68-52 82-91M108 220c-36-20-58-51-67-94M122 150c35-8 57-28 73-60"/>
+<ellipse class="leaf" cx="82" cy="270" rx="28" ry="54" transform="rotate(-35 82 270)"/>
+<ellipse class="leaf" cx="170" cy="230" rx="28" ry="54" transform="rotate(37 170 230)"/>
+<g><circle class="cotton" cx="42" cy="105" r="24"/><circle class="cotton" cx="76" cy="88" r="26"/><circle class="cotton" cx="85" cy="124" r="25"/></g>
+<g><circle class="cotton" cx="190" cy="72" r="24"/><circle class="cotton" cx="215" cy="96" r="24"/><circle class="cotton" cx="178" cy="108" r="25"/></g>
+<g><circle class="cotton" cx="200" cy="175" r="22"/><circle class="cotton" cx="220" cy="203" r="22"/><circle class="cotton" cx="184" cy="209" r="23"/></g>
+</svg>

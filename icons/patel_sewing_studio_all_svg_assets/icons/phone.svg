@@ -1,0 +1,12 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+
+<style>
+  .stroke{stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;fill:none}
+  .fill{fill:currentColor}
+  .soft{fill:currentColor;opacity:.12}
+  .mid{fill:currentColor;opacity:.28}
+  .line{stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;fill:none;opacity:.7}
+</style>
+
+<path class="stroke" stroke-width="3" d="M22 14l7 10-5 6c4 8 10 14 18 18l6-5 10 7c-1 6-5 10-11 10-21-1-39-19-40-40 0-6 4-10 10-11z"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+
+<style>
+  .stroke{stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;fill:none}
+  .fill{fill:currentColor}
+  .soft{fill:currentColor;opacity:.12}
+  .mid{fill:currentColor;opacity:.28}
+  .line{stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;fill:none;opacity:.7}
+</style>
+
+<g class="stroke" stroke-width="3">
+  <rect x="10" y="18" width="44" height="30" rx="4"/>
+  <path d="M12 22l20 16 20-16"/>
+</g>
+</svg>

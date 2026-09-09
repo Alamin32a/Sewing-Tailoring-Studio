@@ -1,0 +1,5 @@
+<svg viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+<style>.line{fill:none;stroke:currentColor;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}.soft{fill:currentColor;opacity:.13}</style>
+<ellipse cx="110" cy="40" rx="55" ry="24" class="soft"/><path class="line" d="M55 40h110v140H55z"/><path class="line" d="M45 40h130M45 180h130"/>
+<path class="line" d="M70 75c35 15 70 15 105 0M70 110c35 15 70 15 105 0M70 145c35 15 70 15 105 0"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="48" height="48" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sewing machine icon">
+  <title>Sewing machine icon</title>
+  <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <!-- thread spool -->
+    <path d="M19.5 14.5H30.5" stroke-width="3"/>
+    <path d="M22 17H28" stroke-width="2.25"/>
+    <path d="M25 17.8V23.5" stroke-width="2.25"/>
+
+    <!-- top machine body -->
+    <path d="M11 24H38.5C45.6 24 51.4 29.8 51.4 36.9V39.2H44.1V36.9C44.1 33.8 41.6 31.3 38.5 31.3H11V24Z" stroke-width="3"/>
+
+    <!-- inner body detail -->
+    <path d="M17.5 28.7H34.5" stroke-width="2"/>
+    <path d="M13 35.5H32.5" stroke-width="2"/>
+
+    <!-- needle column -->
+    <path d="M44.1 39.2V47.5" stroke-width="3"/>
+    <path d="M44.1 47.5V52.5" stroke-width="1.8"/>
+
+    <!-- presser foot -->
+    <path d="M38.8 47.7H49.2" stroke-width="2.5"/>
+    <path d="M40.5 50.8H47.5" stroke-width="1.8"/>
+
+    <!-- hand wheel -->
+    <circle cx="52" cy="31" r="4.2" stroke-width="2.5"/>
+    <circle cx="52" cy="31" r="1.05" fill="currentColor" stroke="none"/>
+
+    <!-- base -->
+    <path d="M8.5 54H55.5" stroke-width="3"/>
+    <path d="M14 50.2H34" stroke-width="2.2"/>
+  </g>
+</svg>
